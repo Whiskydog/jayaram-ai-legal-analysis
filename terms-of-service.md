@@ -219,5 +219,4 @@ The form and manner of such disclosure must be reasonable and sufficient to info
 ## Contact Us
 Please send your feedback, comments, requests for technical support:
 
-By email: support@writesonic.com.
-asdasdasdasdasdasdasd
+By email: support@writesonic.com
