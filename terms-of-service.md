@@ -211,6 +211,11 @@ If any provision of Terms is held by a court or other tribunal of competent juri
 ## Acknowledgement
 By using service or other services provided by us, you acknowledge that you have read these terms of service and agree to be bound by them.
 
+## Disclosure of AI Use
+Platform output may be used for commercial purposes, subject to compliance with these Terms. However, where such output is shared, published, distributed, or otherwise made available to third parties, the user is required to clearly and conspicuously disclose that artificial intelligence was utilized in the creation of such output.
+
+The form and manner of such disclosure must be reasonable and sufficient to inform third parties of the use of AI-generated content. Failure to provide the required disclosure may constitute a breach of these Terms.
+
 ## Contact Us
 Please send your feedback, comments, requests for technical support:
 
