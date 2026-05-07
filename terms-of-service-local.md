@@ -46,7 +46,15 @@ Any contests, sweepstakes or other promotions (collectively, “Promotions”) m
 ## Subscriptions
 Some parts of Service are billed on a subscription basis (“Subscription(s)”). You will be billed in advance on a recurring and periodic basis (“Billing Cycle”). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the exacta same conditions unless you cancel it or Writesonic, Inc. cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting Writesonic, Inc. customer support team.
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless Writesonic, Inc. cancels or modifies the Subscription.
+
+Subscriptions are non-cancellable and non-terminable by users for convenience, including through the online account management page, customer support channels, or discontinuation of Service usage.
+
+By purchasing a Subscription, you agree to remain responsible for all recurring Subscription fees and charges applicable to the selected Billing Cycle and any automatic renewal periods unless otherwise expressly authorized in writing by Writesonic, Inc.
+
+Failure to use the Service, deletion of an account, or discontinuation of access to the Service shall not constitute cancellation or termination of a Subscription and shall not relieve the user of any payment obligations associated with the Subscription term or renewal period.
+
+Writesonic, Inc. may, at its sole discretion, permit cancellation, suspension, or termination requests in exceptional circumstances, but shall have no obligation to do so.
 
 A valid payment method, including credit card or PayPal, is required to process the payment for your subscription. You shall provide Writesonic, Inc. with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize Writesonic, Inc. to charge all Subscription fees incurred through your account to any such payment instruments.
 
@@ -69,7 +77,9 @@ At any time and without notice, Writesonic, Inc. reserves the right to (i) modif
 Your continued use of Service after Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
 ## Refunds
-We issue refunds for Contracts within seven (7) days of the original purchase of the Contract with the condition that your words usage is less than 25000 Premium quality or equivalent words for any of our paid plans. Our refund policy has been described in detail here
+We issue refunds for Contracts within seven (7) days of the original purchase of the Contract with the condition that your words usage is less than 25000 Premium quality or equivalent words for any of our paid plans. Our refund policy has been described in detail here.
+
+Refund eligibility shall not be construed as granting any right to cancel or terminate an active Subscription. Any approved refund shall be issued solely at the discretion of Writesonic, Inc. and under the conditions expressly stated herein.
 
 ## Fair Usage Policy (FUP)
 Writesonic is committed to providing high-quality, reliable service for all users. We expect all our users to avoid misuse or overuse of our services. Overuse by one user may impact the quality of service for others. Users are encouraged to select plans that align with their professional needs and business size. High-usage users should consider upgrading to a more robust plan, requesting a custom plan, or utilizing our business API.
@@ -198,7 +208,9 @@ Except as prohibited by law, you will hold us and our officers, directors, emplo
 ## Termination
 We may terminate or suspend your account and bar access to Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of Terms.
 
-If you wish to terminate your account, you may simply discontinue using Service.
+Users may discontinue use of the Service at any time; however, such discontinuation shall not constitute termination or cancellation of any active Subscription, nor relieve the user from any outstanding or future payment obligations arising from the applicable Subscription term or automatic renewal period.
+
+Writesonic, Inc. retains the exclusive right to determine whether and under what conditions a Subscription may be terminated prior to the end of the applicable Billing Cycle or renewal term.
 
 ## Governing Law
 These Terms shall be governed and construed in accordance with the laws of the State of Texas, without regard to its conflict of law provisions.
