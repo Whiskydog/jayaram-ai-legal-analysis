@@ -130,8 +130,21 @@ You may not use as a username the name of another person or entity or that is no
 
 We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in our sole discretion.
 
+## User Content and Instructional Input Ownership
+
+As between the user and Writesonic, Inc., and subject to applicable law and third-party rights, the user retains all right, title, and interest in and to any prompts, instructions, text, data, files, queries, requests, context, or other materials submitted, uploaded, entered, or otherwise provided to the Service by the user (“Instructional Input” or “User Content”).
+
+Writesonic, Inc. does not claim ownership over any Instructional Input submitted by users through the Service.
+
+By submitting Instructional Input to the Service, the user grants Writesonic, Inc. a limited, non-exclusive, worldwide, royalty-free license to host, store, reproduce, process, transmit, and use such Instructional Input solely to the extent necessary to operate, maintain, improve, secure, and provide the Service, comply with legal obligations, enforce these Terms, and prevent fraud, abuse, or misuse.
+
+Except for the limited license expressly granted above, no rights in the user’s Instructional Input are transferred or assigned to Writesonic, Inc. under these Terms.
+
 ## Intellectual Property
-Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of Writesonic, Inc. and its licensors. Service is protected by copyright, trademark, and other laws of the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Writesonic, Inc..
+
+Service and its original content (excluding Content provided by users, including Instructional Input), features and functionality are and will remain the exclusive property of Writesonic, Inc. and its licensors. Service is protected by copyright, trademark, and other laws of the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Writesonic, Inc..
+
+As between the user and Writesonic, Inc., and subject to applicable law and third-party rights, users retain ownership of all Instructional Input and other Content they provide to the Service.
 
 ## Copyright Policy
 We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on Service infringes on the copyright or other intellectual property rights (“Infringement”) of any person or entity.
