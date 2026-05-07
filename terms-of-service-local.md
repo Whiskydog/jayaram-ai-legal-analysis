@@ -233,6 +233,18 @@ No waiver by Company of any term or condition set forth in Terms shall be deemed
 
 If any provision of Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of Terms will continue in full force and effect.
 
+## Assignment
+
+Users may not assign, transfer, delegate, sublicense, sell, or otherwise convey any of their rights, licenses, interests, or obligations under these Terms, whether voluntarily, involuntarily, by operation of law, merger, acquisition, change of control, or otherwise, without the prior written consent of Writesonic, Inc.
+
+Any attempted assignment, transfer, delegation, or conveyance in violation of this section shall be null, void, and of no legal effect.
+
+Users are required to provide prior written notice to Writesonic, Inc. of any proposed assignment, transfer, merger, acquisition, corporate restructuring, or other transaction that could reasonably result in a transfer or assumption of rights or obligations under these Terms.
+
+Writesonic, Inc. may assign or transfer its rights and obligations under these Terms without restriction and without notice to users.
+
+These Terms shall be binding upon and inure to the benefit of the parties and their permitted successors and assigns.
+
 ## Acknowledgement
 By using service or other services provided by us, you acknowledge that you have read these terms of service and agree to be bound by them.
 
