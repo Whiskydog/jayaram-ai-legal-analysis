@@ -245,6 +245,18 @@ Writesonic, Inc. may assign or transfer its rights and obligations under these T
 
 These Terms shall be binding upon and inure to the benefit of the parties and their permitted successors and assigns.
 
+## AI Training Data Opt-Out
+
+Writesonic, Inc. may use user prompts, Instructional Input, User Content, generated outputs, interactions, and related usage data to develop, improve, train, fine-tune, test, validate, secure, and enhance its artificial intelligence models, machine learning systems, and related technologies.
+
+Users may opt out of allowing their Instructional Input, User Content, or generated outputs to be used for artificial intelligence or machine learning training purposes by submitting a written request to support@writesonic.com or by using any in-product opt-out mechanism made available by Writesonic, Inc.
+
+Upon receipt and processing of a valid opt-out request, Writesonic, Inc. will cease using the applicable user Instructional Input and generated outputs for future AI model training purposes, except where retention or processing is required for legal compliance, security, fraud prevention, abuse monitoring, enforcement of these Terms, or operation of the Service.
+
+A user’s decision to opt out of AI training data usage shall not affect the user’s ability to access or use the Service, subject to compliance with these Terms.
+
+Users acknowledge that data already incorporated into models, systems, backups, aggregated datasets, or training processes prior to the effective date of the opt-out request may not be removable or reversible.
+
 ## Acknowledgement
 By using service or other services provided by us, you acknowledge that you have read these terms of service and agree to be bound by them.
 
