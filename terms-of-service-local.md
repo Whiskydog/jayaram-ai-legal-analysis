@@ -266,6 +266,5 @@ Platform output may be used for commercial purposes, subject to compliance with 
 The form and manner of such disclosure must be reasonable and sufficient to inform third parties of the use of AI-generated content. Failure to provide the required disclosure may constitute a breach of these Terms.
 
 ## Contact Us
-Please send your feedback, comments, requests for technical support:
 
 By email: support@writesonic.com
