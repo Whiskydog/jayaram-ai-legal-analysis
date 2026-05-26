@@ -213,7 +213,7 @@ Users may discontinue use of the Service at any time; however, such discontinuat
 Writesonic, Inc. retains the exclusive right to determine whether and under what conditions a Subscription may be terminated prior to the end of the applicable Billing Cycle or renewal term.
 
 ## Governing Law
-These Terms shall be governed and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions.
 
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service and supersede and replace any prior agreements we might have had between us regarding the Service.
 
