@@ -10,8 +10,6 @@ Your agreement with us includes these Terms and our Privacy Policy (“Agreement
 
 If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at support@writesonic.com so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
 
-Thank you for being responsible.
-
 ## Purchases
 If you wish to purchase any product or service made available through Service (“Purchase”), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
 
