@@ -12,9 +12,6 @@ If you do not agree with (or cannot comply with) Agreements, then you may not us
 
 Thank you for being responsible.
 
-## Communications
-By creating an Account on our Service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing at.
-
 ## Purchases
 If you wish to purchase any product or service made available through Service (“Purchase”), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
 
