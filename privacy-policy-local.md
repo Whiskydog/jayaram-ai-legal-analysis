@@ -13,7 +13,7 @@ This Policy applies to:
 
 This Policy does not govern personal information that our business customers ("Customers") submit to the Services as Inputs or content they manage through the Services. For that personal information, the Customer is the controller and Writesonic acts as a processor under our [Data Processing Agreement](https://writesonic.com/legal/dpa). The Customer's own privacy notice governs end-user-of-the-Customer relationships.
 
-By using the Services, you agree to the practices described in this Policy. If you do not agree, do not use the Services.
+By using the Services, you agree to the practices described in this Policy.
 
 ## 2\. Personal Information We Collect
 
