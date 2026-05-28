@@ -217,8 +217,3 @@ We may update this Policy. The "Last Updated" date at the top of this page refle
 ## 14\. Contact Us
 
 For privacy questions or to exercise your rights, contact us at [support@writesonic.com](mailto:support@writesonic.com).
-
-You can also reach us at:
-
-- **Mailing address:** Writesonic, Inc., 2261 Market Street #4608, San Francisco, CA 94114, USA
-- **Trust and security:** [writesonic.trust.site](https://writesonic.trust.site/)
