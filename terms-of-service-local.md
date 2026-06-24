@@ -222,7 +222,7 @@ If you wish to terminate your account, you may do so at any time by discontinuin
 All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
 ## Governing Law
-These Terms shall be governed and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions. The parties agree that the state and federal courts located in San Francisco County, California shall have exclusive jurisdiction over, and shall be the exclusive venue for, any dispute, claim, or proceeding arising out of or relating to these Terms or the Service, and each party irrevocably submits to the personal jurisdiction of such courts and waives any objection based on inconvenient forum. To the fullest extent permitted by applicable law, each party waives any right to a trial by jury in any such dispute, claim, or proceeding.
 
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service and supersede and replace any prior agreements we might have had between us regarding the Service.
 
@@ -266,11 +266,6 @@ Users acknowledge that data already incorporated into models, systems, backups, 
 
 ## Acknowledgement
 By using service or other services provided by us, you acknowledge that you have read these terms of service and agree to be bound by them.
-
-## Disclosure of AI Use
-Platform output may be used for commercial purposes, subject to compliance with these Terms. However, where such output is shared, published, distributed, or otherwise made available to third parties, the user is required to clearly and conspicuously disclose that artificial intelligence was utilized in the creation of such output.
-
-The form and manner of such disclosure must be reasonable and sufficient to inform third parties of the use of AI-generated content. Failure to provide the required disclosure may constitute a breach of these Terms.
 
 ## Contact Us
 
