@@ -227,16 +227,6 @@ These Terms shall be governed and construed in accordance with the laws of the S
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service and supersede and replace any prior agreements we might have had between us regarding the Service.
 
 
-## Changes To Service
-We reserve the right to withdraw or amend our Service, and any service or material we provide via Service, in our sole discretion without notice. We will not be liable if for any reason all or any part of Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of Service, or the entire Service, to users, including registered users.
-
-## Amendments To Terms
-We may amend these Terms from time to time by posting the amended terms on this site. In the event of material changes, we will provide notice to users at least 30 days prior to the effective date of the revised Terms, through the Platform, by email, or by other reasonable means.
-
-It is your responsibility to review the updated Terms once notified. Your continued use of the Platform after the revised Terms become effective constitutes your acceptance of the changes.
-
-If you do not agree to the revised Terms, you must discontinue use of the Service before the effective date of the changes. Continued access to or use of the Service after that date indicates your agreement to be bound by the revised Terms.
-
 ## Waiver And Severability
 No waiver by Company of any term or condition set forth in Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Company to assert a right or provision under Terms shall not constitute a waiver of such right or provision.
 
